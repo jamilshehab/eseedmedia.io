@@ -272,3 +272,6 @@ $(document).ready(function () {
 $(document).ready(function () {
     $('.blog-section-carousel  .item').matchHeight();
 })
+$(document).ready(function () {
+    $('.our-blog-carousel1 .item').matchHeight();
+})
