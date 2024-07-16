@@ -269,3 +269,6 @@ $(document).ready(function () {
 $(document).ready(function () {
     $('.service-owl-slider-mobile-section-service  .service-item').matchHeight();
 })
+$(document).ready(function () {
+    $('.blog-section-carousel  .item').matchHeight();
+})
