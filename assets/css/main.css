@@ -17078,3 +17078,9 @@ html {
 .homepage1-body {
   overflow: hidden !important;
 }
+
+@media screen and (max-width: 700px) {
+  .heading-our-values {
+    color: #000 !important;
+  }
+}
